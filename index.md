@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi. Here We Provide Valuable Musings.'
+landing-title: 'The Important Stuff'
 description: null
 image: null
 author: null
