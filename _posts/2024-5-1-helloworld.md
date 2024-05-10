@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Aliquam
-description: Ipsum dolor sit amet
+title: Hello World
+description: We're Doing It Live
 image: assets/images/pic01.jpg
 ---
+
+Content to be Placed Here.
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
