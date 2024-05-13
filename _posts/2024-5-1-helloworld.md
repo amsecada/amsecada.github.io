@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Hello World
-description: We're Doing It Live
-image: assets/images/pic01.jpg
+description: Thunder & Showers Bring Out Flowers
+image: assets/images/adamsplit.jpg
 ---
 
 Content to be Placed Here.
+
+Lots of Cool Things to Do This Year!
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 

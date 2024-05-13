@@ -402,6 +402,7 @@ while (!deck.isInOrder()) {
 print 'It took ' + i + ' iterations to sort the deck.';
 </code></pre>
 
+
 </div>
 </div>
 
@@ -409,3 +410,4 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </section>
 
 </div>
+
